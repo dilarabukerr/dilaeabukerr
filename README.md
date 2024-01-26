@@ -8,7 +8,7 @@
 <a href="https://twitter.com/dilarabukerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dilarabukerr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dilara-büker-0672431b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilara-büker-0672431b0" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22654048/dilara-buker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22654048/dilara-buker" height="30" width="40" /></a>
-<a href="https://instagram.com/dilarabuker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dilarabuker" height="30" width="40" /></a>
+<a href="https://instagram.com/dilarabukerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dilarabuker" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
