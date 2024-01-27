@@ -22,8 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilarabukerr&show_icons=true&locale=en" alt="dilarabukerr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilarabukerr&" alt="dilarabukerr" /></p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=dilarabukerr&show_icons=true&include_all_commits=true)](https://github.com/dilarabukerr/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilarabukerr&layout=compact)](https://github.com/dilarabukerr/github-readme-stats)
 
 
