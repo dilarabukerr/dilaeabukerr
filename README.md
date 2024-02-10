@@ -1,17 +1,6 @@
-<h1 align="center">Hi 👋>
+<h1 align="center"> Hi 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilarabuker&label=Profile%20views&color=0e75b6&style=flat" alt="dilarabuker" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dilarabukerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dilarabukerr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dilara-büker-0672431b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilara-büker-0672431b0" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22654048/dilara-buker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22654048/dilara-buker" height="30" width="40" /></a>
-<a href="https://instagram.com/dilarabukerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dilarabuker" height="30" width="40" /></a>
-
-## [![Gmail Badge](https://img.shields.io/badge/-dilarabukr@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dilarabukr@gmail.com)](mailto:dilarabukr@gmail.com) 
-  
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dilarabuker&label=Profile%20views&color=0e75b6&style=flat" alt="dilarabuker" /> </p>
 
 <img src= "https://github.com/dilarabukerr/dilarabukerr/blob/main/FC74F380-FF03-4ECC-BAEC-CAE16A1F45AD.jpeg">
 
